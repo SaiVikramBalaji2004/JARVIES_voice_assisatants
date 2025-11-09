@@ -38,7 +38,6 @@ The main goal of this project is to **\[describe your goal here, e.g., build an 
 
 ```bash
  git clone https://github.com/SaiVikramBalaji2004/JARVIES_voice_assisatants.git
-cd project-name
 ```
 
 ### 2️⃣ Install dependencies
